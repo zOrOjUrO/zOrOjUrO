@@ -1,12 +1,13 @@
-### Hi there 👋
 
 <!--
 **zOrOjUrO/zOrOjUrO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-<h1 align="center">Hi 👋, I'm Gokul</h1>
-<h3 align="center">An IoT enthusiast from India</h3>
+## Hi👋 I'm Gokul 🐼
+#### An IoT enthusiast
 
-- 🔭 I’m currently working on **Niriksana - an Embedded System for remote monitoring**
+  
+ - 🔭 I’m currently working on **Niriksana - an Embedded System for remote monitoring**
 
 - 🌱 I’m currently learning **React, Nextjs, OpenCV**
 
