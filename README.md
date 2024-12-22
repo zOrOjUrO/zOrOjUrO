@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Lora protocol implementation](https://github.com/zOrOjUrO/pySX127x-mMPLR)
 
-- 📄 Know about my experiences - [My Resume](https://drive.google.com/file/d/1nj76YGYjCA_QeRcjH69eH-7SvmW_GLAk/view)
+- 📄 Know about my experiences - [My Resume](https://drive.google.com/file/d/1L71vBykHRWVlb-YcfsAwRFA3oaMchgdW/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
